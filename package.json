@@ -1,0 +1,19 @@
+{
+  "name": "@definejs/alert",
+  "version": "0.1.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "micty",
+  "email": "mictydeng@qq.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/definejs/alert.git"
+  },
+  "dependencies": {
+    "@definejs/dialog": "^0.1.6",
+    "@definejs/string": "^0.1.5"
+  }
+}
