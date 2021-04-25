@@ -13,7 +13,7 @@ function create() {
     let Dialog = config.Dialog;
 
     let dialog = new Dialog({
-        'cssClass': 'definejs-alert',
+        'cssClass': 'definejs-Alert',
         'volatile': config.volatile,
         'mask': config.mask,
         'autoClose': config.autoClose,
